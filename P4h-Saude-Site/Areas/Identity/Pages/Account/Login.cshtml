@@ -1,0 +1,70 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<link href="~/css/loginStyle.css" rel="stylesheet" type="text/css" />
+
+<body>
+<div class="container">
+    <div class="login">
+        <div class="login__content">
+            <img class="login__img" src="~/Assets/ACO073-23 CAPA SITE INTERNO P4H-02.png" alt="Login image" />
+
+            <form id="account" method="post" class="login__form">
+                <div>
+                    <h1 class="login__title">
+                        <span>Bem-Vindo</span>
+                    </h1>
+
+                    <p class="login__description">
+                        Efetue seu Login.
+                    </p>
+                </div>
+
+                <div>
+                    <div class="login__inputs">
+                        <div>
+                            <label for="email" class="login__label">Email</label>
+                            <input asp-for="Input.Email" class="login__input" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                            <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <label for="password" class="login__label">Password</label>
+                            <div class="login__box">
+                                <input asp-for="Input.Password" class="login__input" autocomplete="current-password" aria-required="true" placeholder="password" />
+                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="login__check">
+                        <label asp-for="Input.RememberMe" class="login__check-label">
+                            <input class="form-check-input" asp-for="Input.RememberMe" />
+                            @Html.DisplayNameFor(m => m.Input.RememberMe)
+                        </label>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="login__buttons">
+                        <button class="login__button">Log In</button>
+                    </div>
+                </div>
+                <div>
+                    <p>
+                        <a id="forgot-password" class="login__forgot" asp-page="./ForgotPassword">Esquceu sua senha?</a>
+                    </p>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
