@@ -48,8 +48,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaos/source/repos/P4h-Saude-Site/P4h-Saude-Site/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/joaos/source/repos/P4h-Saude-Site/P4h-Saude-Site/Views/Paginas/AppApoio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xBcHBBcG9pby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joaos/source/repos/P4h-Saude-Site/P4h-Saude-Site/Views/Paginas/Coparticipacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xDb3BhcnRpY2lwYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joaos/source/repos/P4h-Saude-Site/P4h-Saude-Site/Views/Paginas/Documentos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xEb2N1bWVudG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joaos/source/repos/P4h-Saude-Site/P4h-Saude-Site/Views/Paginas/TabelaDeVendas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xUYWJlbGFEZVZlbmRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joaos/source/repos/P4h-Saude-Site/P4h-Saude-Site/Views/Paginas/VendaOnline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xWZW5kYU9ubGluZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/joaos/source/repos/P4h-Saude-Site/P4h-Saude-Site/Views/Shared/Error.cshtml]

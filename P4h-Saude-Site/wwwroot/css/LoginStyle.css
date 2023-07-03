@@ -1,6 +1,7 @@
-﻿﻿ /*=============== GOOGLE FONTS ===============*/
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
-/*=============== VARIABLES CSS ===============*/
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+
 :root {
     /*========== Colors ==========*/
     /*Color mode HSL(hue, saturation, lightness)*/
@@ -11,7 +12,7 @@
     --body-color: hsl(208, 97%, 85%);
     /*========== Font and typography ==========*/
     /*.5rem = 8px | 1rem = 16px ...*/
-    --body-font: "Poppins", sans-serif;
+    --body-font: "Roboto", sans-serif;
     --h2-font-size: 1.25rem;
     --small-font-size: .813rem;
     --smaller-font-size: .75rem;
@@ -20,7 +21,6 @@
     --font-semi-bold: 600;
 }
 
-/* Responsive typography */
 @media screen and (min-width: 1024px) {
     :root {
         --h2-font-size: 1.75rem;
@@ -29,8 +29,6 @@
         --smaller-font-size: .813rem;
     }
 }
-
-/*=============== BASE ===============*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -308,3 +306,4 @@ img {
         border: 2.5px solid var(--first-color);
     }
 }
+

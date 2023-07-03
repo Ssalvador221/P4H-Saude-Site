@@ -1,8 +1,76 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Identity
+@using P4h_Saude_Site.Areas.Identity.Data
+
+@inject SignInManager<P4h_Saude_Site_UserClass> SignInManager
+@inject UserManager<P4h_Saude_Site_UserClass> UserManager
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<link href="~/css/site.css" rel="stylesheet" type="text/css" />
+
+<div class="titulo">
+    <img class="logo" src="~/Assets/Banner.png" />
 </div>
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <div class="title-name">
+        <p id="manage" class="identification-text" title="Manage">Bem-Vindo <b>@UserManager.GetUserName(User)</b>.</p>
+        <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button id="logout" type="submit" class="logout">‎ Logout.</button>
+        </form>
+    </div>
+}
+
+<section class="container">
+    <div class="column">
+        <a href="~/Assets/Cartilha_Portabilidade_de_carncias_semgov (1).pdf" target="_blank"><img src="~/Assets/b2b.png" class="portabilidade-icon" /></a>
+        <p> Portabilidade </p>
+    </div>
+    <div class="column">
+        <a href="#" target="_blank"><img src="~/Assets/treinamentos.png" class="icon" /></a>
+        <p>Treinamentos</p>
+    </div>
+    <div class="column">
+        <a asp-controller="Paginas" asp-action="Documentos"><img src="~/Assets/documentos.png" class="icon" /></a>
+        <p>Documentos</p>
+    </div>
+    <div class="column">
+        <a asp-controller="Paginas" asp-action="TabelaDeVendas"><img src="~/Assets/tabelaVendas.png" class="icon" /></a>
+        <p>Tabela de Vendas</p>
+    </div>
+    <div class="column">
+        <a asp-controller="Paginas" asp-action="VendaOnline"><img src="~/Assets/celular1.png" class="icon" /></a>
+        <p>Venda Online</p>
+    </div>
+    <div class="column">
+        <a asp-controller="Paginas" asp-action="Coparticipacao"><img src="~/Assets/coparticipação.png" class="icon" /></a>
+        <p>Coparticipação</p>
+    </div>
+    <div class="column">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSlzqAPNH5JiPAtvoT0jC_3kfz4l7z1fK9yAO6m9LN4a_G6A/viewform?usp=sf_link"><img src="~/Assets/helpdesk.png" class="icon" /></a>
+        <p>Helpdesk</p>
+    </div>
+    <div class="column">
+        <a href="#"><img src="~/Assets/comunicados.png" class="icon" /></a>
+        <p>Comunicados</p>
+    </div>
+    <div class="column">
+        <a href="https://chat.openai.com/" target="_blank"><img src="~/Assets/chatgpt.png" class="icon" /></a>
+        <p>Chat GPT</p>
+    </div>
+    <div class="column">
+        <a href="https://www.ans.gov.br/gpw-beneficiario/pages/pesquisa_portabilidade.xhtml" target="_blank"><img src="~/Assets/ans.png" class="icon" /></a>
+        <p>Protocolo ANS</p>
+    </div>
+    <div class="column">
+        <a href="~/Assets/anexo_i_rol_2021rn_4652021 (1).pdf" target="_blank"><img src="~/Assets/procedimentos.png" class="icon" /></a>
+        <p>Rol de procedimentos</p>
+    </div>
+    <div class="column">
+        <a asp-controller="Paginas" asp-action="AppApoio"><img src="~/Assets/appApoio.png" class="icon" /></a>
+        <p>Apps de Apoio</p>
+    </div>
+</section>
