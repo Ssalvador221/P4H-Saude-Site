@@ -3,7 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using P4h_Saude_Site.Areas.Identity.Data;
 using P4h_Saude_Site.Data;
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = "server=localhost;user=LAPTOP-09SI7DE3;password=123456;database=p4h-user-data";
+
+var connectionString = "server=p4h-saude-server-azure.mysql.database.azure.com;user=LAPTOP09SI7DE3;password=Acelera!123;database=p4h-user-data";
 
 builder.Services.AddDbContext<P4h_Saude_SiteContext>(options => options.UseMySql(connectionString, new MySqlServerVersion(new Version(8,0,33))));
 
