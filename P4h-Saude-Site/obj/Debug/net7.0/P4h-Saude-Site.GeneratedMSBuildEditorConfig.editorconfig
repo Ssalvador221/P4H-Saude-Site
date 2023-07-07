@@ -9,85 +9,89 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = P4h_Saude_Site
 build_property.RootNamespace = P4h_Saude_Site
-build_property.ProjectDir = C:\Users\Usuario\Source\Repos\Ssalvador221\P4H-Saude-Site\P4h-Saude-Site\
+build_property.ProjectDir = C:\Users\joaos\Source\Repos\Ssalvador221\P4H-Saude-Site\P4h-Saude-Site\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Usuario\Source\Repos\Ssalvador221\P4H-Saude-Site\P4h-Saude-Site
+build_property.MSBuildProjectDirectory = C:\Users\joaos\Source\Repos\Ssalvador221\P4H-Saude-Site\P4h-Saude-Site
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Home/Index.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/AppApoio.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/AppApoio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xBcHBBcG9pby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/Coparticipacao.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/Coparticipacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xDb3BhcnRpY2lwYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/Documentos.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/Documentos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xEb2N1bWVudG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/TabelaDeVendas.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/TabelaDeVendas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xUYWJlbGFEZVZlbmRhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/VendaOnline.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/Treinamentos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xUcmVpbmFtZW50b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Paginas/VendaOnline.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xWZW5kYU9ubGluZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Shared/Error.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/_ViewImports.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/_ViewStart.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Shared/_Layout.cshtml]
+[C:/Users/joaos/Source/Repos/Ssalvador221/P4H-Saude-Site/P4h-Saude-Site/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bnpy3sxb9q

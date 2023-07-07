@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\P4h-Saude-Site",
+    "\\P4h-Saude-Site\\Views",
+    "\\P4h-Saude-Site\\Views\\Paginas"
   ],
-  "SelectedNode": "\\P4h-Saude-Site.sln",
+  "SelectedNode": "\\P4h-Saude-Site\\Views\\Paginas\\AppApoio.cshtml",
   "PreviewInSolutionExplorer": false
 }

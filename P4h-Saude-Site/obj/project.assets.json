@@ -11821,19 +11821,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\joaos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Ssalvador221\\P4H-Saude-Site\\P4h-Saude-Site\\P4h-Saude-Site.csproj",
+      "projectUniqueName": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\P4H-Saude-Site\\P4h-Saude-Site\\P4h-Saude-Site.csproj",
       "projectName": "P4h-Saude-Site",
-      "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Ssalvador221\\P4H-Saude-Site\\P4h-Saude-Site\\P4h-Saude-Site.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Ssalvador221\\P4H-Saude-Site\\P4h-Saude-Site\\obj\\",
+      "projectPath": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\P4H-Saude-Site\\P4h-Saude-Site\\P4h-Saude-Site.csproj",
+      "packagesPath": "C:\\Users\\joaos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\P4H-Saude-Site\\P4h-Saude-Site\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joaos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

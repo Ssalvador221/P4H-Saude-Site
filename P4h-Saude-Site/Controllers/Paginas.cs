@@ -35,5 +35,10 @@ namespace P4h_Saude_Site.Controllers
             return View("Coparticipacao", "Paginas");
         }
 
+        public IActionResult Treinamentos()
+        {
+            return View("Treinamentos", "Paginas");
+        }
+
     }
 }
